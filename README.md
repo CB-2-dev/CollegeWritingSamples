@@ -1,2 +1,2 @@
 # CollegeWritingSamples
-Writing samples from class assignments
+Writing samples from selected class assignments
